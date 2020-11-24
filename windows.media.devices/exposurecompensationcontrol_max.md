@@ -10,10 +10,10 @@ public float Max { get; }
 # Windows.Media.Devices.ExposureCompensationControl.Max
 
 ## -description
-Gets the maximum exposure time.
+Gets the maximum EV compensation supported. 
 
 ## -property-value
-The maximum exposure time.
+The maximum EV compensation supported. This is an absolute EV value.
 
 ## -remarks
 

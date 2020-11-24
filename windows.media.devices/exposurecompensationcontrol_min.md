@@ -10,10 +10,10 @@ public float Min { get; }
 # Windows.Media.Devices.ExposureCompensationControl.Min
 
 ## -description
-Gets the minimum exposure time.
+Gets the minimum EV compensation supported. 
 
 ## -property-value
-The minimum exposure time.
+The minimum EV compensation supported. This is an absolute EV value.
 
 ## -remarks
 
